@@ -26,3 +26,5 @@ git clone https://github.com/mizza2205/vue-translate-app.git
 cd vue-translate-app
 npm install
 npm run dev
+
+Made with ❤️ by Misbah
